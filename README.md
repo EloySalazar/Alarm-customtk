@@ -10,6 +10,6 @@ This python code uses the custom library customtkinter to create a GUI of a simp
 This project is made in python 3
 - use the following modules:
 
-pip install winsound
-pip install sounddevice
-pip install customtkinter
+```pip install winsound```
+```pip install sounddevice```
+```pip install customtkinter```
