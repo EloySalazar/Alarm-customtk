@@ -1,2 +1,14 @@
-# Alarma-customtk
-Este codigo de Python usa la biblioteca personalizada customtkinter para crear una GUI de una alarma sencilla,este se activa por medio de la intensidad del sonido lo clasifica como alto,medio o bajo
+# Alarm-customtk
+This python code uses the custom library customtkinter to create a GUI of a simple alarm, it is activated by the intensity of the sound and classifies it as high, medium or low
+
+## Getting started
+    ```
+    git clone https://github.com/EloySalazar/Alarm-customtk.git 
+    ```
+## requirements
+This project is made in python 3
+-use the following modules
+
+pip install winsound
+pip install sounddevice
+pip install customtkinter
